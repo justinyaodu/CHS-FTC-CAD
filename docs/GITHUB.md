@@ -1,15 +1,15 @@
 # Setting up GitHub with CAD
 
-1. Create a new folder on your computer which will contain all your CAD files. We'll use "tinoftccad" as an example.
+1. Create a new folder on your computer which will contain all your CAD files. We'll use "MyTinoFtcCad" as an example.
 
 ```
-tinoftccad
+MyTinoFtcCad
 ```
 
 2. Create a subdirectory called "CHS-FTC-CAD" (you will be cloning this repository into this folder).
 
 ```
-tinoftccad
+MyTinoFtcCad
 
 |_  CHS-FTC-CAD (empty folder)
 ```
@@ -17,7 +17,7 @@ tinoftccad
 3. Create a subdirectory called "FTC-(team number)-(year)-CAD". For example, team 7610 for the 2017-2018 season would use the name "FTC-7610-2018-CAD".
 
 ```
-tinoftccad
+MyTinoFtcCad
 
 |_  CHS-FTC-CAD (empty folder)
 
@@ -27,7 +27,7 @@ tinoftccad
 4. Clone CHS-FTC-CAD into the appropriate folder. You can use GitHub desktop for this step.
 
 ```
-tinoftccad
+MyTinoFtcCad
 
 |_  CHS-FTC-CAD (repository with CAD resources)
 
@@ -37,7 +37,7 @@ tinoftccad
 5. If a teammate of yours has already created a repository for your team's CAD files, clone it into the second folder. Otherwise, create a new repository in the second folder, and name it the same as the folder. GitHub desktop works for this too.
 
 ```
-tinoftccad
+MyTinoFtcCad
 
 |_  CHS-FTC-CAD (repository with CAD resources)
 
