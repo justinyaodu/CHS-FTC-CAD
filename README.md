@@ -2,6 +2,8 @@
 
 Official GitHub repository with CAD resources for Cupertino High School's FTC teams.
 
+If you are new to SolidWorks, please follow the instructions [here](docs/TUTORIAL.md).
+
 Please keep this folder separate from your team's robot model. This repository is for part files only; teams should set up their own repositories as detailed below.
 
 ## Setting up GitHub with CAD
