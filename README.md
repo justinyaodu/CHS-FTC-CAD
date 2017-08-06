@@ -4,7 +4,7 @@ Official GitHub repository with CAD resources for Cupertino High School's FTC te
 
 Please keep this folder separate from your team's robot model. This repository is for part files only; teams should set up their own repositories as detailed below.
 
-#Setting up GitHub with CAD
+## Setting up GitHub with CAD
 
 1. Create a new folder which will contain all your CAD files. We'll use "tinoftccad" as an example.
 
@@ -17,7 +17,7 @@ tinoftccad
 ```
 tinoftccad
 
-|_  CHS-FTC-CAD *(empty folder)*
+|_  CHS-FTC-CAD (empty folder)
 ```
 
 3. Create a subdirectory called "FTC-(team number)-(year)-CAD". For example, team 7610 for the 2017-2018 season would use the name "FTC-7610-2018-CAD".
@@ -25,9 +25,9 @@ tinoftccad
 ```
 tinoftccad
 
-|_  CHS-FTC-CAD *(empty folder)*
+|_  CHS-FTC-CAD (empty folder)
 
-|_  FTC-7610-2018-CAD *(empty folder)*
+|_  FTC-7610-2018-CAD (empty folder)
 ```
 
 4. Clone CHS-FTC-CAD into the appropriate folder. You can use GitHub desktop for this step.
@@ -35,9 +35,9 @@ tinoftccad
 ```
 tinoftccad
 
-|_  CHS-FTC-CAD *(repository with CAD resources)*
+|_  CHS-FTC-CAD (repository with CAD resources)
 
-|_  FTC-7610-2018-CAD *(empty folder)*
+|_  FTC-7610-2018-CAD (empty folder)
 ```
 
 5. If a teammate of yours has already created a repository for your team's CAD files, clone it into the second folder. Otherwise, create a new repository in the second folder, and name it the same as the folder. GitHub desktop works for this too.
@@ -45,9 +45,9 @@ tinoftccad
 ```
 tinoftccad
 
-|_  CHS-FTC-CAD *(repository with CAD resources)*
+|_  CHS-FTC-CAD (repository with CAD resources)
 
-|_  FTC-7610-2018-CAD *(repository with your CAD files)*
+|_  FTC-7610-2018-CAD (repository with your CAD files)
 ```
 
 You can now pull updated CAD files shared between teams from CHS-FTC-CAD, and you can push and pull your team's CAD models to your team's repository. You're all set!
