@@ -4,7 +4,7 @@
 
 2. Download the resources for each section and follow along with the tutorial in Solidworks.
 
-    1. Parts (Parts, Exercises)
+    1. [Parts](http://www.solidworks.com/sw/resources/getting-started-3d-parts-design.htm) ([Parts](http://www.solidworks.com/sw/docs/LessonOne_Parts_Parts.zip), [Exercises](http://www.solidworks.com/sw/docs/LessonOne_Parts_Exercises.zip))
 	
         1. Model Views, Orientation, and Displays
 		
@@ -22,7 +22,7 @@
 		
         8. Making changes to a part
 		
-    2. Assemblies (Parts, Exercises)
+    2. [Assemblies](http://www.solidworks.com/sw/resources/getting-started-3d-assemblies.htm) ([Parts](http://www.solidworks.com/sw/docs/LessonOne_Parts_Parts.zip), [Exercises](http://www.solidworks.com/sw/docs/LessonTwo_Assemblies_Exercises.zip))
     
         1. Creating your first 3D assembly
         
