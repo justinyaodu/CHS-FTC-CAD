@@ -53,3 +53,9 @@ tinoftccad
 ```
 
 You can now pull updated CAD files shared between teams from CHS-FTC-CAD, and you can push and pull your team's CAD models to your team's repository. You're all set!
+
+## Known limitations
+
+Refrain from editing the same part/assembly at the same time as someone else; dealing with merge conflicts in SolidWorks files is more troublesome than just redoing your work.
+
+Assemblies will have to be rebuilt when subassemblies are edited.
