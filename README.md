@@ -5,3 +5,5 @@ Official GitHub repository with CAD resources for Cupertino High School's FTC te
 If you are new to SolidWorks, please follow the instructions [here](docs/TUTORIAL.md).
 
 This repository is for part files only; teams should set up their own repositories as detailed [here](docs/GITHUB.md).
+
+Parts are organized in this manner: solidworks/*manufacturer*/*part type*/
