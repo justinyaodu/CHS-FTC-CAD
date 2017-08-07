@@ -1,8 +1,6 @@
 # Getting Started with SolidWorks
 
-## Install SolidWorks.
-
-## Download the resources for each section and follow along with the tutorial in Solidworks.
+**Download the resources for each section and follow along with the tutorial in SolidWorks.**
 
 1. [Parts](http://www.solidworks.com/sw/resources/getting-started-3d-parts-design.htm) ([Parts](http://www.solidworks.com/sw/docs/LessonOne_Parts_Parts.zip), [Exercises](http://www.solidworks.com/sw/docs/LessonOne_Parts_Exercises.zip))
 	
