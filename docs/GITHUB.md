@@ -1,5 +1,7 @@
 # Setting up GitHub with CAD
 
+The end result of this process will be a CAD repository for your team, something like [this](https://github.com/justinyaodu/FTC-7610-2018-CAD).
+
 **1. Create a new folder on your computer which will contain all your CAD files. We'll use "MyTinoFtcCad" as an example.**
 
 ```
