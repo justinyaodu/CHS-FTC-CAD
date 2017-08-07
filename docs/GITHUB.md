@@ -31,17 +31,39 @@ MyTinoFtcCad
 
 |_  CHS-FTC-CAD (repository with CAD resources)
 
+    |_  *repository files*
+
 |_  FTC-7610-2018-CAD (empty folder)
 ```
 
-5. If a teammate of yours has already created a repository for your team's CAD files, clone it into the second folder. Otherwise, create a new repository in the second folder, and name it the same as the folder. GitHub desktop works for this too.
+5. If a teammate of yours has already created a repository for your team's CAD files, clone it into the second folder and skip the rest of this step. Otherwise, create a new repository in the second folder, and name it the same as the folder.
+
+Please copy the following text and paste it into a new file in your new repository named "README.md". Don't forget to add this file to GitHub!
+
+```
+# FTC-TEAMNUMBER-SEASONYEAR-CAD
+
+CAD repository for Cupertino High School's FTC team TEAMNUMBER (SCHOOLYEAR).
+```
+
+TEAMNUMBER: self explanatory
+
+SEASONYEAR: if the current school year is 2017-2018, use 2018 (for consistency)
+
+SCHOOLYEAR: the current school year (e.g. 2017-2018)
+
+6. Your folder structure should now look like:
 
 ```
 MyTinoFtcCad
 
 |_  CHS-FTC-CAD (repository with CAD resources)
 
-|_  FTC-7610-2018-CAD (repository with your CAD files)
+    |_  *repository files*
+
+|_  FTC-7610-2018-CAD (repository which will contain your CAD files)
+
+    |_  README.md
 ```
 
 You can now pull updated CAD files shared between teams from CHS-FTC-CAD, and you can push and pull your team's CAD models to your team's repository. You're all set!
