@@ -14,7 +14,7 @@ MyTinoFtcCad
 |_  CHS-FTC-CAD (empty folder)
 ```
 
-3. Create a subdirectory called "FTC-(team number)-(year)-CAD". For example, team 7610 for the 2017-2018 season would use the name "FTC-7610-2018-CAD".
+3. Create a subdirectory called "FTC-(team number)-(year)-CAD". For example, team 7610 for the 2017-2018 school year would use the name "FTC-7610-2018-CAD".
 
 ```
 MyTinoFtcCad
