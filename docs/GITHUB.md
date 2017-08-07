@@ -1,12 +1,12 @@
 # Setting up GitHub with CAD
 
-**1.** Create a new folder on your computer which will contain all your CAD files. We'll use "MyTinoFtcCad" as an example.
+**1. Create a new folder on your computer which will contain all your CAD files. We'll use "MyTinoFtcCad" as an example.**
 
 ```
 MyTinoFtcCad
 ```
 
-**2.** Create a subdirectory called "CHS-FTC-CAD" (you will be cloning this repository into this folder).
+**2. Create a subdirectory called "CHS-FTC-CAD" (you will be cloning this repository into this folder).**
 
 ```
 MyTinoFtcCad
@@ -14,7 +14,7 @@ MyTinoFtcCad
 |_  CHS-FTC-CAD (empty folder)
 ```
 
-**3.** Create a subdirectory called "FTC-(team number)-(year)-CAD". For example, team 7610 for the 2017-2018 school year would use the name "FTC-7610-2018-CAD".
+**3. Create a subdirectory called "FTC-(team number)-(year)-CAD". For example, team 7610 for the 2017-2018 school year would use the name "FTC-7610-2018-CAD".**
 
 ```
 MyTinoFtcCad
@@ -24,7 +24,7 @@ MyTinoFtcCad
 |_  FTC-7610-2018-CAD (empty folder)
 ```
 
-**4.** Clone CHS-FTC-CAD into the appropriate folder. You can use GitHub desktop for this step.
+**4. Clone CHS-FTC-CAD into the appropriate folder. You can use GitHub desktop for this step.**
 
 ```
 MyTinoFtcCad
@@ -36,7 +36,7 @@ MyTinoFtcCad
 |_  FTC-7610-2018-CAD (empty folder)
 ```
 
-**5.** If a teammate of yours has already created a repository for your team's CAD files, clone it into the second folder and skip the rest of this step. Otherwise, create a new repository in the second folder, and name it the same as the folder.
+**5. If a teammate of yours has already created a repository for your team's CAD files, clone it into the second folder and skip the rest of this step. Otherwise, create a new repository in the second folder, and name it the same as the folder.**
 
 Please copy the following text and paste it into a new file in your new repository named "README.md". Don't forget to add this file to GitHub!
 
@@ -52,7 +52,7 @@ SEASONYEAR: if the current school year is 2017-2018, use 2018 (for consistency)
 
 SCHOOLYEAR: the current school year (e.g. 2017-2018)
 
-**6.** Your folder structure should now look like:
+**6. Your folder structure should now look like:**
 
 ```
 MyTinoFtcCad
